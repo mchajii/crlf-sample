@@ -1,6 +1,8 @@
+package com.mchajii
+
 import org.scalatest._
-import flatspec._
-import matchers._
+import org.scalatest.flatspec._
+import org.scalatest.matchers._
 
 class CRLFSpec extends AnyFlatSpec with should.Matchers {
 
